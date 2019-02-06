@@ -130,7 +130,7 @@ class KnowledgeBase(object):
         # Implementation goes here
         # Not required for the extra credit assignment
 
-   def kb_explain_helper(self, fact_or_rule, indent):
+    def kb_explain_helper(self, fact_or_rule, indent):
 
         ans = ''
 
